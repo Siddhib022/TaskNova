@@ -29,33 +29,18 @@ https://siddhib022.github.io/TaskNova/
 - Vite
 
 ---
-TaskNova
-│
-├── public
-├── src
-│ ├── components
-│ ├── App.jsx
-│ └── main.jsx
-│
-├── index.html
-├── package.json
-└── vite.config.js
-
-
----
-
 ## ⚙️ Installation and Setup
 
-1️⃣ Clone the repository 
+1️⃣ Clone the repository:  
 git clone https://github.com/Siddhib022/TaskNova.git
 
-2️⃣ Navigate to the project folder
+2️⃣ Navigate to the project folder: 
 cd TaskNova
 
-3️⃣ Install dependencies
+3️⃣ Install dependencies: 
 npm install
 
-4️⃣ Run the development server
+4️⃣ Run the development server: 
 npm run dev
 
 The app will run on:
@@ -91,5 +76,5 @@ LinkedIn: https://www.linkedin.com/in/siddhi-bhosale-979006373
 ---
 
 ⭐ If you like this project, feel free to star the repository!
-## 📂 Project Structure
+
 
